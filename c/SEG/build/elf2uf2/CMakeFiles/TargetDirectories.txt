@@ -1,0 +1,5 @@
+E:/lyh/products/PICO-8SEG-4B-LED/PICO-8SEG-4B-LED/demo codes/c/SEG/build/elf2uf2/CMakeFiles/elf2uf2.dir
+E:/lyh/products/PICO-8SEG-4B-LED/PICO-8SEG-4B-LED/demo codes/c/SEG/build/elf2uf2/CMakeFiles/edit_cache.dir
+E:/lyh/products/PICO-8SEG-4B-LED/PICO-8SEG-4B-LED/demo codes/c/SEG/build/elf2uf2/CMakeFiles/rebuild_cache.dir
+E:/lyh/products/PICO-8SEG-4B-LED/PICO-8SEG-4B-LED/demo codes/c/SEG/build/elf2uf2/boot_uf2_headers/CMakeFiles/edit_cache.dir
+E:/lyh/products/PICO-8SEG-4B-LED/PICO-8SEG-4B-LED/demo codes/c/SEG/build/elf2uf2/boot_uf2_headers/CMakeFiles/rebuild_cache.dir

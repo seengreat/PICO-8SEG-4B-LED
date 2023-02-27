@@ -1,0 +1,1 @@
+cmd='D:/visual studio/ide/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;-GNMake Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'

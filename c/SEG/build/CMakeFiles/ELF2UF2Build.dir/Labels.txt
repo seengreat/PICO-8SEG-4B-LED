@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+E:/lyh/products/PICO-8SEG-4B-LED/PICO-8SEG-4B-LED/demo codes/c/SEG/build/CMakeFiles/ELF2UF2Build
+E:/lyh/products/PICO-8SEG-4B-LED/PICO-8SEG-4B-LED/demo codes/c/SEG/build/CMakeFiles/ELF2UF2Build.rule
+E:/lyh/products/PICO-8SEG-4B-LED/PICO-8SEG-4B-LED/demo codes/c/SEG/build/CMakeFiles/ELF2UF2Build-complete.rule
+E:/lyh/products/PICO-8SEG-4B-LED/PICO-8SEG-4B-LED/demo codes/c/SEG/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule
+E:/lyh/products/PICO-8SEG-4B-LED/PICO-8SEG-4B-LED/demo codes/c/SEG/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+E:/lyh/products/PICO-8SEG-4B-LED/PICO-8SEG-4B-LED/demo codes/c/SEG/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+E:/lyh/products/PICO-8SEG-4B-LED/PICO-8SEG-4B-LED/demo codes/c/SEG/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+E:/lyh/products/PICO-8SEG-4B-LED/PICO-8SEG-4B-LED/demo codes/c/SEG/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+E:/lyh/products/PICO-8SEG-4B-LED/PICO-8SEG-4B-LED/demo codes/c/SEG/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+E:/lyh/products/PICO-8SEG-4B-LED/PICO-8SEG-4B-LED/demo codes/c/SEG/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule

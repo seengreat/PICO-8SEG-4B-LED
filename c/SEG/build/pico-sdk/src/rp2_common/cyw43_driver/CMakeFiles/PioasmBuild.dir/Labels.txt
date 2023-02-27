@@ -1,0 +1,13 @@
+# Target labels
+ PioasmBuild
+# Source files and their labels
+E:/lyh/products/PICO-8SEG-4B-LED/PICO-8SEG-4B-LED/demo codes/c/SEG/build/pico-sdk/src/rp2_common/cyw43_driver/CMakeFiles/PioasmBuild
+E:/lyh/products/PICO-8SEG-4B-LED/PICO-8SEG-4B-LED/demo codes/c/SEG/build/pico-sdk/src/rp2_common/cyw43_driver/CMakeFiles/PioasmBuild.rule
+E:/lyh/products/PICO-8SEG-4B-LED/PICO-8SEG-4B-LED/demo codes/c/SEG/build/pico-sdk/src/rp2_common/cyw43_driver/CMakeFiles/PioasmBuild-complete.rule
+E:/lyh/products/PICO-8SEG-4B-LED/PICO-8SEG-4B-LED/demo codes/c/SEG/build/pico-sdk/src/rp2_common/cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-build.rule
+E:/lyh/products/PICO-8SEG-4B-LED/PICO-8SEG-4B-LED/demo codes/c/SEG/build/pico-sdk/src/rp2_common/cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-configure.rule
+E:/lyh/products/PICO-8SEG-4B-LED/PICO-8SEG-4B-LED/demo codes/c/SEG/build/pico-sdk/src/rp2_common/cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-download.rule
+E:/lyh/products/PICO-8SEG-4B-LED/PICO-8SEG-4B-LED/demo codes/c/SEG/build/pico-sdk/src/rp2_common/cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-install.rule
+E:/lyh/products/PICO-8SEG-4B-LED/PICO-8SEG-4B-LED/demo codes/c/SEG/build/pico-sdk/src/rp2_common/cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-mkdir.rule
+E:/lyh/products/PICO-8SEG-4B-LED/PICO-8SEG-4B-LED/demo codes/c/SEG/build/pico-sdk/src/rp2_common/cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-patch.rule
+E:/lyh/products/PICO-8SEG-4B-LED/PICO-8SEG-4B-LED/demo codes/c/SEG/build/pico-sdk/src/rp2_common/cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-update.rule

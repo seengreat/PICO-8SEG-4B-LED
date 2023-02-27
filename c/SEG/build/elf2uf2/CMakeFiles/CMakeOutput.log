@@ -1,0 +1,75 @@
+The system is: Windows - 10.0.19044 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: D:/visual studio/ide/VC/Tools/MSVC/14.29.30133/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.29.30146 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.29.30146.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "E:/lyh/products/PICO-8SEG-4B-LED/PICO-8SEG-4B-LED/demo codes/c/SEG/build/elf2uf2/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/visual studio/ide/VC/Tools/MSVC/14.29.30133/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.29.30146 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.29.30146.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "E:/lyh/products/PICO-8SEG-4B-LED/PICO-8SEG-4B-LED/demo codes/c/SEG/build/elf2uf2/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: E:/lyh/products/PICO-8SEG-4B-LED/PICO-8SEG-4B-LED/demo codes/c/SEG/build/elf2uf2/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_61363\fast && 	"D:\visual studio\ide\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_61363.dir\build.make /nologo -L                  CMakeFiles\cmTC_61363.dir\build
+Building C object CMakeFiles/cmTC_61363.dir/CMakeCCompilerABI.c.obj
+	"D:\visual studio\ide\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_61363.dir\CMakeCCompilerABI.c.obj.d --working-dir="E:\lyh\products\PICO-8SEG-4B-LED\PICO-8SEG-4B-LED\demo codes\c\SEG\build\elf2uf2\CMakeFiles\CMakeTmp" --filter-prefix="注意: 包含文件:  " -- "D:\visual studio\ide\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" @C:\Users\Admin\AppData\Local\Temp\nm865.tmp
+CMakeCCompilerABI.c
+?鈷? 鍖呭惈鏂囦欢:  D:\visual studio\ide\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.20\Modules\CMakeCompilerABI.h
+Linking C executable cmTC_61363.exe
+	"D:\visual studio\ide\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_61363.dir --rc="D:\Windows Kits\10\bin\10.0.19041.0\x86\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.19041.0\x86\mt.exe" --manifests -- "D:\visual studio\ide\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_61363.dir\objects1.rsp @C:\Users\Admin\AppData\Local\Temp\nm98E.tmp
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: E:/lyh/products/PICO-8SEG-4B-LED/PICO-8SEG-4B-LED/demo codes/c/SEG/build/elf2uf2/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_45801\fast && 	"D:\visual studio\ide\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_45801.dir\build.make /nologo -L                  CMakeFiles\cmTC_45801.dir\build
+Building CXX object CMakeFiles/cmTC_45801.dir/CMakeCXXCompilerABI.cpp.obj
+	"D:\visual studio\ide\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_45801.dir\CMakeCXXCompilerABI.cpp.obj.d --working-dir="E:\lyh\products\PICO-8SEG-4B-LED\PICO-8SEG-4B-LED\demo codes\c\SEG\build\elf2uf2\CMakeFiles\CMakeTmp" --filter-prefix="注意: 包含文件:  " -- "D:\visual studio\ide\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" @C:\Users\Admin\AppData\Local\Temp\nmA68.tmp
+CMakeCXXCompilerABI.cpp
+?鈷? 鍖呭惈鏂囦欢:  D:\visual studio\ide\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.20\Modules\CMakeCompilerABI.h
+Linking CXX executable cmTC_45801.exe
+	"D:\visual studio\ide\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_45801.dir --rc="D:\Windows Kits\10\bin\10.0.19041.0\x86\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.19041.0\x86\mt.exe" --manifests -- "D:\visual studio\ide\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_45801.dir\objects1.rsp @C:\Users\Admin\AppData\Local\Temp\nmA98.tmp
+
+
+

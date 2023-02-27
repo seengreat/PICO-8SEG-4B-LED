@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "seg.h": "c",
+        "pwm.h": "c",
+        "spi.h": "c"
+    }
+}
